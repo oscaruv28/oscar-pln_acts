@@ -2,7 +2,7 @@
 
 **Asignatura:** Procesamiento de Lenguaje Natural
 **Maestría Virtual en Ingeniería de Sistemas y Computación**
-**Estudiante:** _[nombre del estudiante]_
+**Estudiante:** Oscar Guerrero
 **Fecha de entrega:** 10 de julio
 
 ---
