@@ -1,0 +1,31 @@
+# --- Comprimidos y respaldos (algunos > 100 MB, GitHub los rechaza) ---
+*.zip
+PENDIENTES-OSCAR-GUERRERO-PLN/
+
+# --- Material del curso ajeno / con tokens de terceros ---
+**/pln-coding-ayudas/
+**/pln-coding-ayudas.zip
+
+# --- Datasets provistos por el curso (pesados / no redistribuir) ---
+**/prostata/
+**/prostata-*/
+**/Biobert/
+**/data56/
+**/pdf-coding/
+**/TASS/
+**/*.bio
+
+# --- Embeddings y modelos entrenados ---
+**/models/
+*.vec
+*.vec.gz
+*.model
+*.model.*
+*.safetensors
+*.bin
+
+# --- Temporales de Python / Jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
